@@ -1,6 +1,6 @@
 server:
   port: 8080
-  contextPath: /SpringBootCRUDApp
+  contextPath: /EmployeeRegistration
 
 spring:
   profiles: local, default
